@@ -1,5 +1,5 @@
 <h1 align="center">Gude 👋, Ich bin bin Kaan</h1>
-<h3 align="center">Ein Auszubildender Full Stack Webentwickler ⌨️</h3>
+<h3 align="center">Ein Auszubildender Webentwickler ⌨️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaan-oeker&label=Profile%20views&color=0e75b6&style=flat" alt="kaan-oeker" /> </p>
 
